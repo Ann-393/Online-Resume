@@ -1,0 +1,134 @@
+
+
+  html {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    line-height: 1.5em;
+    text-rendering: optimizeLegibility;
+    vertical-align: baseline;
+  }
+  body {
+    font: normal 300 1rem/1.5 -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "Roboto", "Fira Sans", "Droid Sans", Arial, sans-serif;
+    color: #303234;
+  }
+  #myProfile {
+    margin: 16px;
+    padding: 0;
+    background-color: #F5F5F5;
+  }
+  header {
+    text-align: center;
+  }
+  section {
+    margin: 0 0 16px 0;
+    padding: 16px;
+    background-color: #02387E;
+    background-image: linear-gradient(0deg,#0751B0,#02387E);
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+  }
+  .subSection {
+    margin: 16px 0 0 0;
+    padding: 32px;
+    background-color: #FFF;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+  }
+  .subSection p {
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    line-height: 1.5em;
+    color: #303234;
+  }
+  .subSection sup {
+    position: relative;
+    top: -4px;
+    line-height: 0;
+    vertical-align: middle;
+  }
+  .subSection ol, .subSection ul {
+    margin: 0;
+    padding: 0 0 0 8px;
+    font-size: 1rem;
+    line-height: 1.5em;
+  }
+  footer {
+    text-align: center;
+  }
+  h1 { 
+    margin: 32px 0 0 32px;
+    padding: 0;
+    font-size: 5rem;
+    line-height: 1.25em;
+    color: #02387E;
+    }
+  h2 {
+    margin: 0 0 32px 32px;
+    padding: 0;
+    font-family: "Times New Roman", Baskerville, Georgia, serif;
+    font-size: 3rem;
+    line-height: 1.25em;
+    font-style: italic;
+    font-weight: normal;
+  }
+  h3 {
+    font-size: 2.5rem;
+    line-height: 1.25em;
+    color: #FFF;
+  }
+  h4 {
+    margin:  0;
+    padding: 16px 0 16px 16px;
+    font-size: 2rem;
+    line-height: 1.25em;
+    color: #FFF;
+  }
+  h5 {
+    margin: 0 0 16px 0;
+    padding: 0 0 16px 0;
+    font-size: 1.5rem;
+    line-height: 1.25em;
+    color: #303234;
+    border-bottom: 4px solid #C7CCD3;
+  }
+  p {
+    font-size: 1rem;
+    line-height: 1.5em;
+  }
+  p.subText {
+    margin: 0 0 8px 0;
+    padding: 0;
+    font-size: 1rem;
+    line-height: 1.5em;
+    color: #6A6E72;
+  }
+  ol, ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    margin: 0 16px;
+    padding: 0 16px;
+  }
+  a, a:link, a:visited {
+    font-weight: bold;
+    color: #DA2020;
+    text-decoration: underline;
+  }
+  a:hover, a:focus {
+    font-weight: bold;
+    color: #FFF;
+    text-decoration: none;
+    background-color: #DA2020;
+  }
+  a:active {
+    font-weight: bold;
+    color: #FFF;
+    text-decoration: none;
+    background-color: #950707;
+  }
+  
